@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Daniel Andrés Tunjano",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "label": "Diseñador UX/UI, Industrial & Desarrollador Fronted Jr.",
     "image": "/me.webp",
     "email": "danieltb92@hotmail.com",
     "phone": "+57 3202190255",
@@ -34,33 +34,44 @@
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "name": "JMG Importaciones y Distribuciones SAS",
+      "position": "Diseñador Industrial Head",
+      "url": null,
+      "startDate": "2019-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Líder del departamento de diseño, encargado del diseño y desarrollo de productos de la compañía. Estableciendo el proceso de diseño por medio de gestión de calidad.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Inventor iluminación Colombia s.a",
+      "position": "Diseñador Industrial Head",
+      "url": null,
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01",
+      "summary": "Diseñador industrial con funciones de proceso de conceptualización, diseño y modelado de productos para producción requeridos por los clientes. Diseño de piezas graficas para campañas publicitarias de la compañía.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
+      "name": "JMG Importaciones y Distribuciones SAS",
+      "position": "Diseñador",
+      "url": null,
+      "startDate": "2017-06-01",
+      "endDate": "2018-09-01",
+      "summary": "Desarrollo de proyectos de iluminación en campo. Conceptualización y gestión de pagina Web de la compañía.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Electro Industriales Bogotá",
+      "position": "Diseñador",
+      "startDate": "2014-03-01",
       "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "summary": "Freelance, diseño de piezas graficas.",
       "highlights": [
         "Started the company"
       ]
